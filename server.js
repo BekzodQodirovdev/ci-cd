@@ -11,7 +11,7 @@ app.use('/users', (req, res) => {
   res.send([
     {
       id: 1,
-      name: 'ali',
+      name: 'vali',
       age: 22,
       isMerred: false,
     },
